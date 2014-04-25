@@ -1,5 +1,5 @@
-meteor-ratchet
-==============
+Ratchet for Meteor
+==================
 
 [Ratchet 2.0.2] (http://goratchet.com) for [Meteor](http://meteor.com).
 
