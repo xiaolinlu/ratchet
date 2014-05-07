@@ -3,7 +3,7 @@
   "description": "ratchet 2.0.2 packaged for meteor",
   "homepage": "https://github.com/axwaxw/meteor-ratchet",
   "author": "Alex Webster <alex@alexwebster.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "git": "https://github.com/axwaxw/ratchet.git",
   "packages": { }
 }

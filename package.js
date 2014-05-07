@@ -9,6 +9,7 @@ Package.on_use(function (api) {
   var asset_path = path.join('ratchet-2');
   api.add_files(path.join(asset_path, 'css', 'ratchet.css'), 'client');
   api.add_files(path.join(asset_path, 'js', 'ratchet.js'), 'client');
+  api.add_files(path.join(asset_path, 'js', 'ratchet.min.js'), 'client');
 
   // fonts
   api.add_files(path.join(asset_path, 'fonts', 'ratchicons.eot'), 'client');
