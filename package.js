@@ -10,6 +10,7 @@ Package.on_use(function (api) {
   api.add_files(path.join(asset_path, 'css', 'ratchet.css'), 'client');
   api.add_files(path.join(asset_path, 'js', 'ratchet.js'), 'client');
   api.add_files(path.join(asset_path, 'js', 'ratchet.min.js'), 'client');
+  api.use(['underscore','templating','jquery'], 'client')
 
   // fonts
   api.add_files(path.join(asset_path, 'fonts', 'ratchicons.eot'), 'client');
